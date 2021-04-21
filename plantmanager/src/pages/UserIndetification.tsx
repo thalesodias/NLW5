@@ -46,7 +46,7 @@ export function UserIdentification(){
 
                             <Text style={styles.title}>
                                 Como podemos {'\n'}
-                                chamar você? 
+                                chamar você?
                             </Text>
                         </View>
 
